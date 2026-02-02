@@ -2,16 +2,16 @@
 
 _So I have to tell you about me?_
 
- ## Ok, well, I am into programing, cybersecurity and competitive programing.
+ > Ok, well, I am into programing, cybersecurity and competitive programing.
 
-> This are my results and profiles on competitive programing sites:
+## My results:
 > - https://rocphof.kilonova.ro/person/5990 (this is the proof that I got distictions at Romanian National Informatic Olympiad) 
 > - https://codeforces.com/profile/Ilea_Bogdan (I don't realy like codeforces)
 > - https://www.pbinfo.ro/profil/Ilea_Bogdan  
 
 > I will put the cybersecurity ctf results once I actually do more stuff and have good results (I am just starting out) (THIS IS A REMAINDER TO MYSELF)
 
-Ok now to the regular programing part. I know some programing languages. I will present them in the order I know them best:   
+## Programing languages. (in the order I know them best):   
 * `C/C++`
 * `Python`
 * `C#`

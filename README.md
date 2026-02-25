@@ -1,15 +1,11 @@
 # "Hello There" - Kenobi
 
-_So I have to tell you about me?_
-
- > Ok, well, I am into programing, cybersecurity and competitive programing.
-
 ## My results:
 > - https://rocphof.kilonova.ro/person/5990 (this is the proof that I got distictions at Romanian National Informatic Olympiad) 
 > - https://codeforces.com/profile/Ilea_Bogdan (I don't realy like codeforces)
 > - https://www.pbinfo.ro/profil/Ilea_Bogdan  
 
-> I will put the cybersecurity ctf results once I actually do more stuff and have good results (I am just starting out) (THIS IS A REMAINDER TO MYSELF)
+> I will put the cybersecurity ctf results once I actually do more stuff and have good results (I am just starting out) (THIS IS A REMAINDER FOR MYSELF)
 
 ## Programing languages. (in the order I know them best):   
 * `C/C++`
@@ -19,6 +15,8 @@ _So I have to tell you about me?_
 * `Bash`
 * `Java`
 
+
+<!--
 ## Projects?
 Oh yeah, I have some random projects. They are usually ideas I have randomly and then *boom*, I wake up coding them.   
 The list of my favorite ones (so far):
@@ -29,7 +27,6 @@ The list of my favorite ones (so far):
 > - https://github.com/IleaBogdan/spambot (this one is not the best of my work, but I am proud of it since I did it after less then a year of learning how to code, with no google or any help)
 
 
-<!--
 **IleaBogdan/IleaBogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

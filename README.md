@@ -4,16 +4,16 @@
 > - https://rocphof.kilonova.ro/person/5990 (this is the proof that I got distictions at Romanian National Informatic Olympiad) 
 > - https://codeforces.com/profile/Ilea_Bogdan (I don't realy like codeforces)
 > - https://www.pbinfo.ro/profil/Ilea_Bogdan  
-
-> I will put the cybersecurity ctf results once I actually do more stuff and have good results (I am just starting out) (THIS IS A REMAINDER FOR MYSELF)
+> - https://app.cyber-edu.co/user/a026fd62-ab05-4a8b-af0e-cebcc1ee6240?tenant=cyberedu   
 
 ## Programing languages. (in the order I know them best):   
 * `C/C++`
 * `Python`
 * `C#`
-* `JavaScript` and `React.js` (also `TypeScript` but it is technically JS so yeah)
+* `JavaScript` and `React.js` (also `TypeScript` but it is technically js so yeah)
 * `Bash`
 * `Java`
+* `PHP` (Yeah I can read php, not write it)
 
 
 <!--

@@ -10,8 +10,9 @@
 * `C/C++`
 * `Python`
 * `C#`
-* `JavaScript` and `React.js` (also `TypeScript` but it is technically js so yeah)
+* `glsl`
 * `Bash`
+* `JavaScript` and `React.js` (also `TypeScript` but it is technically js so yeah)
 * `Java`
 * `PHP` (Yeah I can read php, not write it)
 

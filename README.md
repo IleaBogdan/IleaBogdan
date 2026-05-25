@@ -10,7 +10,7 @@
 * `C/C++`
 * `Python`
 * `C#`
-* `glsl`
+* `GLSL`
 * `Bash`
 * `JavaScript` and `React.js` (also `TypeScript` but it is technically js so yeah)
 * `Java`

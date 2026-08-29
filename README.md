@@ -11,6 +11,7 @@
 * `Python`
 * `C#`
 * `GLSL`
+* `Godot`
 * `Bash`
 * `JavaScript` and `React.js` (also `TypeScript` but it is technically js so yeah)
 * `Java`
